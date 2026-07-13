@@ -63,12 +63,12 @@ pip install pandas matplotlib seaborn
 # ▶️ How to Run
 
 1. Download the project.
-2. Place **titanic.csv** and **titanic_analysis.py** in the same folder.
+2. Place **titanic.csv** and **titanic_analysis.pynb** in the same folder.
 3. Open Terminal or Command Prompt.
 4. Run the following command:
 
 ```bash
-python titanic_analysis.py
+python titanic_analysis.pynb
 ```
 
 ---
