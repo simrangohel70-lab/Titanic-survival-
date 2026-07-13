@@ -6,6 +6,8 @@ The **Titanic Survival Analysis** project is an Exploratory Data Analysis (EDA) 
 
 The aim of this project is to analyze the Titanic dataset and identify the factors that influenced passenger survival using different visualizations and statistical analysis.
 
+click here to see video:-https://drive.google.com/file/d/1RgHERKV0zILmEOFJBU66qtBWXl0O_zx2/view?usp=sharing
+
 ---
 
 # 🎯 Objectives
